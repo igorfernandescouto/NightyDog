@@ -5,7 +5,7 @@
 [![Reddit](https://aleen42.github.io/badges/src/reddit.svg
 )](https://www.reddit.com/user/NightyDog01)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightyDog&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfernandescouto&show_icons=true&theme=gruvbox)
 
 ## Tecnologias 🖥️
 
